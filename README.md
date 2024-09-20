@@ -4,13 +4,13 @@
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=jakubross&label=Profile%20views&color=0e75b6&style=flat" alt="jakubross" /> 
-      <p>- 🔭 I’m currently working on <a href="https://gitify.net/">Flobird/Gitify</a> & <a href="https://www.qubit.cm/">qubit</a></p>
+      <p>- 🔭 I’m currently working on  <a href="https://www.qubity.pl/">qubity</a></p>
       <p>- 👨‍💻 All of my public projects are available at <a href="https://github.com/JakubRoss">https://github.com/JakubRoss</a></p>
-      <p>- 📫 How to reach me <b>jakub.ross@gitify.net</b></p>
+      <p>- 📫 How to reach me <b>info@qubity.pl</b></p>
     </td>
-        <td align="center">
-      <img height="200" src="https://www.gitify.net/notsite/csharp-bot.svg"  />
-    </td>
+<td align="center">
+  <img src="https://www.qubity.pl//static/media/GlassLogo.fd0f9bc260a51ba5f4e36b91b36629f2.svg" width="100%" alt="Glass Logo" />
+</td>
   </tr>
 </table>
 
