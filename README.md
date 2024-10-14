@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=jakubross&label=Profile%20views&color=0e75b6&style=flat" alt="jakubross" /> 
-      <p>- 🔭 I’m currently working on <a href="https://gitify.net/">Flobird/Gitify</a> & <a href="https://www.qubit.cm/">qubit</a></p>
+      <p>- 🔭 I’m currently working on <a href="https://gitify.net/">Flobird/Gitify</a> & <a href="https://www.qubity.pl/">qubit</a></p>
       <p>- 👨‍💻 All of my public projects are available at <a href="https://github.com/JakubRoss">https://github.com/JakubRoss</a></p>
       <p>- 📫 How to reach me <b>jakub.ross@gitify.net</b></p>
     </td>
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/jakubross/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://www.qubity.pl/static/media/GlassLogo.fd0f9bc260a51ba5f4e36b91b36629f2.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
